@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+function ozy(n,toplam=0){
+     if(n<11){
+        console.log(n)("sayıların toplamı:"+toplam);
+        return;
+   }
+     if(n%2==1){
+       console.log(n);
+       toplam+=n;
+}
+     ozy(n-1,toplam);
+ozy(99);
+
+
+</script>
+</body>
+</html>
