@@ -1,0 +1,2 @@
+Hafta 13
+Bu haftada, JavaScript ile özyinelemeli (recursive) fonksiyon yazmayı öğrendik. Fonksiyon, 99’dan başlayarak 11’e kadar olan sayıları kontrol ediyor, tek olanları bulup topluyor ve sonucu konsola yazdırıyor. Böylece özyinelemeyi kullanarak sayılar üzerinde işlem yapmayı gördük.
