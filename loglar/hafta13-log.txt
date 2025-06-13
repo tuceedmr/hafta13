@@ -1,0 +1,5 @@
+Hafta 13 Log:
+
+Özyinelemeli fonksiyon yazıldı.  
+Tek sayıların toplamı bulundu ve ekrana yazdırıldı.  
+Kod sorunsuz çalıştı.
